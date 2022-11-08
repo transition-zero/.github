@@ -1,6 +1,6 @@
 [<img alt="TransitionZero Logo" width="1000px" src="https://github.com/transition-zero/.github/raw/main/profile/img/logo.png" />](https://www.transitionzero.org/)
 
-TransitionZero builds tools and datasets to deliver a net-zero energy future.
+TransitionZero is a not-for-profit set up in 2020 to decarbonise energy systems by supporting global businesses and emerging market governments with open, granular and accessible data.
 
 ## Our Work
 
@@ -17,7 +17,7 @@ We are building a new **Future Energy Outlook** with unprecedented spatial granu
 
 ## Who We Are
 
-Founded in 2020, we are a small team of data scientists, engineers, advocates, and communicators headquartered in London, UK, with teams in the United States and Singapore.
+Founded in 2020, we are a small team of data scientists, engineers, analysts, and communicators headquartered in London, UK, with teams in the United States and Singapore.
 
 
 ## Join Us!
