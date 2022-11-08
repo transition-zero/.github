@@ -1,4 +1,8 @@
-[<img alt="TransitionZero Logo" width="1000px" src="https://github.com/transition-zero/.github/raw/main/profile/img/logo.png" />](https://www.transitionzero.org/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/transitionzero/.github/raw/main/profile/img/logo-dark.png">
+  <img alt="TransitionZero Logo" width="1000px" src="https://github.com/transitionzero/.github/raw/main/profile/img/logo-light.png">
+  <a href="https://www.transitionzero.org/">
+</picture>
 
 TransitionZero is a not-for-profit set up in 2020 to decarbonise energy systems by supporting global businesses and emerging market governments with open, granular and accessible data.
 
