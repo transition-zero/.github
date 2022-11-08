@@ -10,7 +10,7 @@ TransitionZero is a not-for-profit set up in 2020 to decarbonise energy systems 
 - We publish tools for decision-makers supported by our data and analysis:
   - the [**Coal Asset Transition Tool**](https://www.transitionzero.org/coal-asset-transition-tool), to help refinance and replace coal plants in an affordable and just way
   - the [**Coal-to-Clean Carbon Price Index**](https://www.transitionzero.org/coal-to-clean-carbon-price-index) to track the carbon price required for fuel switching from coal to renewables
-  - the [**Global Steel Cost Tracker**](https://www.transitionzero.org/global-steel-cost-tracker) to estiamte steel plant production costs.
+  - the [**Global Steel Cost Tracker**](https://www.transitionzero.org/global-steel-cost-tracker) to estimate steel plant production costs.
 
 We are building a new **Future Energy Outlook** with unprecedented spatial granularity to provide a long-term view of the changing energy system. Our outlook will be open-source and open-data, providing a central resource for deliberation over the future of the energy system.
 
