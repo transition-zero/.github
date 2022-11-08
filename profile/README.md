@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/transitionzero/.github/raw/main/profile/img/logo-dark.png">
-  <img alt="TransitionZero Logo" width="1000px" src="https://github.com/transitionzero/.github/raw/main/profile/img/logo-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/transition-zero/.github/raw/main/profile/img/logo-dark.png">
+  <img alt="TransitionZero Logo" width="1000px" src="https://github.com/transition-zero/.github/raw/main/profile/img/logo-light.png">
   <a href="https://www.transitionzero.org/">
 </picture>
 
