@@ -1,35 +1,29 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/transition-zero/.github/raw/main/profile/img/logo-dark.png">
-  <img alt="TransitionZero Logo" width="1000px" src="https://github.com/transition-zero/.github/raw/main/profile/img/logo-light.png">
+  <img alt="TransitionZero Logo" width="400px" src="https://github.com/transition-zero/.github/raw/main/profile/img/logo-light.png">
   <a href="https://www.transitionzero.org/">
+  <br>
 </picture>
 
-TransitionZero is a not-for-profit set up in 2020 to decarbonise energy systems by supporting global businesses and emerging market governments with open, granular and accessible data.
+TransitionZero is a climate analytics non-profit established in 2021. We build accessible and open software for energy system modelling, and publish regular updates and explainers on the global energy transition. We are entirely grant-funded by the Quadrature Climate Foundation, Google.org, Sequoia Climate Foundation, Bloomberg Philanthropies, and European Climate Foundation, among others. 
+As a grant-funded start-up, our software, data and insights support mission-aligned partners and organisations working towards cleaner, more reliable energy systems around the world. We're a founding member of the [**ClimateTRACE coalition**](https://climatetrace.org/), providing heavy industry and power system emissions data.
 
-## Our Work
+Could TransitionZero’s energy system modelling expertise assist your organisation? [**Get in touch**](https://transitionzero.org/contact/).
 
-- We are a founding member of the [ClimateTRACE](https://www.climatetrace.org/) coalition, delivering new asset-level transparency for global greenhouse gas emissions.
-- We develop [ground-breaking](https://carbontracker.org/reports/nowhere-to-hide/) [approaches](https://www.climatechange.ai/papers/neurips2020/11) for estimating facility-level greenhouse gas emissions from earth observation imagery.
-- We use these methods to analyse decarbonisation of the heavy industry and power sectors worldwide, with special reports on the [EU](https://www.transitionzero.org/reports/ripe-for-closure), [China](https://www.transitionzero.org/reports/turning-the-supertanker), and [Japan](https://www.transitionzero.org/reports/advanced-coal-in-japan).
-- We publish tools for decision-makers supported by our data and analysis:
-  - the [**Coal Asset Transition Tool**](https://www.transitionzero.org/coal-asset-transition-tool), to help refinance and replace coal plants in an affordable and just way
-  - the [**Coal-to-Clean Carbon Price Index**](https://www.transitionzero.org/coal-to-clean-carbon-price-index) to track the carbon price required for fuel switching from coal to renewables
-  - the [**Global Steel Cost Tracker**](https://www.transitionzero.org/global-steel-cost-tracker) to estimate steel plant production costs.
+## Our work
 
-We are building a new **Future Energy Outlook** with unprecedented spatial granularity to provide a long-term view of the changing energy system. Our outlook will be open-source and open-data, providing a central resource for deliberation over the future of the energy system.
+- **Software**: We want energy system modelling insights to be accessible to a wider-range of stakeholders. We're developing modern interfaces for interacting with system models, including a no-code UI that allows analysts to create and compare custom capacity expansion or dispatch scenarios. Take a look at our version of the popular OSeMOSYS framework for long-run capacity expansion modelling: [**TZ-OSeMOSYS**](https://github.com/transition-zero/tz-osemosys/). 
+- **Data**: We've built open-access datasets for tracking solar PV growth, assessing the viability of early coal retirement in Southeast Asia, and tracking global steel production costs. Check out our flagship data product, [**Solar Asset Mapper (TZ-SAM**)](https://www.transitionzero.org/products/solar-asset-mapper/), an open-access, global database of solar PV assets, derived through planetary-scale machine learning.
+- **Insights**: Our analysis team publish regular explainers and regional updates on the energy transition. [**Discover our latest work.**](https://www.transitionzero.org/insights/) 
 
+## About us
 
-## Who We Are
+We are a small team of data scientists, engineers and analysts headquartered at Sustainable Ventures in London, UK.
 
-Founded in 2020, we are a small team of data scientists, engineers, analysts, and communicators headquartered in London, UK, with teams in the United States and Singapore.
+## Join us!
 
-
-## Join Us!
-
-We're looking for driven, analytical people who want to fight climate change. 
-Want to join us?
+We're looking for driven, analytical people who are passionate about the energy transition.
 Have a look at our job postings at [https://www.transitionzero.org/careers](https://www.transitionzero.org/careers).
-
 
 ## Contact Us!
 
