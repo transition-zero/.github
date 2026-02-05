@@ -5,7 +5,7 @@
   <br>
 </picture>
 
-TransitionZero is a climate tech non-profit established in 2021. We provide accessible and open software and data for energy systems modelling. We are entirely grant-funded by the Quadrature Climate Foundation, Google.org, Sequoia Climate Foundation, Bloomberg Philanthropies, and European Climate Foundation, among others. 
+TransitionZero is a climate tech non-profit established in 2021. We provide accessible and open software and data for energy systems modelling. We are entirely grant-funded by the Growald Climate Fund, Google.org, Sequoia Climate Foundation, Bloomberg Philanthropies, and European Climate Foundation, among others. 
 As a grant-funded start-up, our software, data and insights support mission-aligned partners and organisations working towards cleaner, more reliable energy systems around the world. We're a founding member of the [**ClimateTRACE coalition**](https://climatetrace.org/), providing heavy industry and power system emissions data.
 
 Could TransitionZero’s energy system modelling expertise assist your organisation? [**Get in touch**](https://transitionzero.org/contact/).
